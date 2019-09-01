@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="app_name" tools:ignore="MissingTranslation">1БИЛЕТИК</string>
+  <string name="com_travelpayouts_marker" tools:ignore="MissingTranslation">184228</string>
+  <string name="com_travelpayouts_api_token" tools:ignore="MissingTranslation">0fd58b7cf9d61525de4c82ea525449b5</string>
+  <string name="com_travelpayouts_flight_engine_host" tools:ignore="MissingTranslation">https://www.travel-api.pw</string>
+  <string name="com_travelpayouts_privacy_policy" tools:ignore="MissingTranslation">https://www.freeprivacypolicy.com/privacy/view/7ff887203beb9bf8f77fc85aafe78a7d</string>
+</resources>
